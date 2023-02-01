@@ -35,6 +35,24 @@
       "gender": "male",
       "role": "tech",
       "isactive": true
+    },
+    {
+      "id": "frank",
+      "name": "muster",
+      "password": "Test@1233",
+      "email": "fMuster@email.com",
+      "gender": "male",
+      "role": "tech",
+      "isactive": true
+    },
+    {
+      "id": "emilian",
+      "name": "mustiman",
+      "password": "Test@1233",
+      "email": "emilMustiman@email.com",
+      "gender": "male",
+      "role": "",
+      "isactive": false
     }
   ],
   "role": [
