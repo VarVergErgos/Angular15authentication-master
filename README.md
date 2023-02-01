@@ -1,5 +1,10 @@
 # Authentication
 
+Thanks for the Tutorial from Nihira Techies to learn angular basics 
+https://www.youtube.com/@NihiraTechiees
+
+Youtube: https://www.youtube.com/watch?v=0wXlkvYOK0w
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
 
 ## Development server
